@@ -1,0 +1,13 @@
+{
+    "repositories": {
+        "packagist.org": false,
+        "private-packagist": {
+            "type": "composer",
+            "url": "https://repo.packagist.com/another-pcom-test/"
+        }
+    },
+    "require": {
+        "psr/log": "^3.0",
+        "guzzlehttp/psr7": "2.1"
+    }
+}
