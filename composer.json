@@ -8,6 +8,7 @@
     },
     "require": {
         "psr/log": "^3.0",
-        "guzzlehttp/psr7": "2.1"
+        "guzzlehttp/psr7": "^2.1",
+        "symfony/security-core": "5.2.8"
     }
 }
